@@ -1,0 +1,13 @@
+.room{
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  background-color: #000;
+  border: 1px solid #000;
+}
+
+.heightBox{
+  margin: 10px;
+  width: 200px;
+  background-color: #000;
+}
